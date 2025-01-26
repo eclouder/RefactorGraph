@@ -1,24 +1,24 @@
 [submodule "3rd-party/fmt"]
 	path = 3rd-party/fmt
-	url = https://github.com/fmtlib/fmt/tree/f5e54359df4c26b6230fc61d38aa294581393084
+	url = https://github.com/fmtlib/fmt.git
 [submodule "3rd-party/googletest"]
 	path = 3rd-party/googletest
-	url = https://github.com/google/googletest/tree/f8d7d77c06936315286eb55f8de22cd23c188571
+	url = https://github.com/google/googletest.git
 [submodule "3rd-party/backward-cpp"]
 	path = 3rd-party/backward-cpp
-	url = https://github.com/bombela/backward-cpp/tree/51f0700452cf71c57d43c2d028277b24cde32502
+	url = https://github.com/bombela/backward-cpp.git
 [submodule "3rd-party/fmtlog"]
 	path = 3rd-party/fmtlog
-	url = https://github.com/MengRao/fmtlog/tree/dbb4bfe389b53c84a06fc9529ef57aa82afccb06
+	url = https://github.com/MengRao/fmtlog.git
 [submodule "3rd-party/result"]
 	path = 3rd-party/result
-	url = https://github.com/willowell/result/tree/09be2b176ff04d7e0b351823d15c6711e2b74e47
+	url = https://github.com/willowell/result.git
 [submodule "3rd-party/abseil-cpp"]
 	path = 3rd-party/abseil-cpp
-	url = https://github.com/abseil/abseil-cpp/tree/fb3621f4f897824c0dbe0615fa94543df6192f30
+	url = https://github.com/abseil/abseil-cpp.git
 [submodule "src/09python_ffi/pybind11"]
 	path = src/09python_ffi/pybind11
-	url = https://github.com/pybind/pybind11/tree/8a099e44b3d5f85b20f05828d919d2332a8de841
+	url = https://github.com/pybind/pybind11.git
 [submodule "3rd-party/cccl"]
 	path = 3rd-party/cccl
-	url = https://github.com/NVIDIA/cccl/tree/b7d4228ab7268ed928984cd61096079bd671d25d
+	url = https://github.com/NVIDIA/cccl.git
